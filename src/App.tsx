@@ -36,7 +36,6 @@ function App(): JSX.Element {
   };
 
   return (
-    <h1>Task app manager</h1>
     <div className="container p-4">
       <div className="row">
         <div className="col-md-6 offset-md-3">
